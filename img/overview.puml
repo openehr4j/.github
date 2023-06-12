@@ -25,4 +25,8 @@ package openehr-term-java {
   component "openehr-term-support-terminology" as supportTerminology
 }
 
+baseTypes ..> foundationTypes
+resourceModel ..> baseTypes
+resourceModel ..> foundationTypes
+
 @enduml
