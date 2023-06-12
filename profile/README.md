@@ -27,7 +27,7 @@ The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/
 
 **Separate Abstractions pattern**
 
-- Knoernschild 2012, p. 237 ff.
+- [Java Application Architecture: Modularity Patterns with Examples Using OSGi, Kirk Knoernschild, 2012 | google.com/books](https://www.google.com/books/edition/Java_Application_Architecture/iOtwFoU1Dt4C?hl=en), Knoernschild 2012, p. 237 ff.
 - [Patterns of Modular Architecture | dzone.com](https://dzone.com/refcardz/patterns-modular-architecture)
 - [Modularity Patterns with JPMS | opus.ch](https://opus.ch/modularity-patterns-with-jpms-abstractions)
 
