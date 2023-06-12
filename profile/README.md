@@ -1,6 +1,6 @@
 # openEHR Java API [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-This project provides a collection of Maven packages that contain interface types for the corresponding classes of the openEHR specifications.
+This project provides a collection of Maven packages with interface types for the corresponding classes of the openEHR specifications.
 
 ## Overview
 
