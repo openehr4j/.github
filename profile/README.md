@@ -4,8 +4,6 @@ This project provides a collection of Maven packages with interface types for th
 
 ## Overview
 
-The openEHR Java API project follows the Separate Abstractions pattern [1] where the interface and implementation reside in separate packages.
-
 ![component diagram with package dependencies](./img/overview.png)
 
 ## References
@@ -16,7 +14,7 @@ The openEHR Java API project follows the Separate Abstractions pattern [1] where
 - https://specifications.openehr.org/development_baseline
 - https://specifications.openehr.org/releases/UML/latest/index.html
 - https://opus.ch/modularity-patterns-with-jpms-abstractions/
-- [1] Knoernschild 2012, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
+- Separate Abstractions pattern, Knoernschild 2012, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
 - https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-Java-Impl-Medinfo2007-2007-03-31.pdf
 
 ## Legal notice
