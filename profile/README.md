@@ -13,8 +13,8 @@ The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/
 **openEHR website**
 
 - [Homepage | openehr.org](https://www.openehr.org) 
-- [Custom Google search | openehr.org](https://cse.google.com/cse?cx=b137c0ed42c6742ba) 
-- [Custom Google search | specifications.openehr.org](https://cse.google.com/cse?cx=25af888cc5a66491c)
+- [Custom search - openehr.org | cse.google.com](https://cse.google.com/cse?cx=b137c0ed42c6742ba) 
+- [Custom search - specifications.openehr.org | cse.google.com](https://cse.google.com/cse?cx=25af888cc5a66491c)
 - [All Components | specifications.openehr.org](https://specifications.openehr.org/components)
 - [Development Baseline | specifications.openehr.org](https://specifications.openehr.org/development_baseline)
 - [openEHR Portal - UML | specifications.openehr.org](https://specifications.openehr.org/releases/UML/latest/index.html)
