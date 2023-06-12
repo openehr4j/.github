@@ -1,6 +1,6 @@
 # openEHR Java API [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-This project provides a collection of Maven packages with interface types for the corresponding classes of the openEHR specifications.
+This project provides a collection of Maven packages with interface types for the corresponding classes of the [openEHR specifications](https://specifications.openehr.org/).
 
 ## Overview
 
@@ -10,14 +10,26 @@ The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/
 
 ## References
 
-- [Custom search: openehr.org](https://cse.google.com/cse?cx=b137c0ed42c6742ba) 
-- [Custom search: specifications.openehr.org](https://cse.google.com/cse?cx=25af888cc5a66491c)
-- https://specifications.openehr.org/components
-- https://specifications.openehr.org/development_baseline
-- https://specifications.openehr.org/releases/UML/latest/index.html
-- https://opus.ch/modularity-patterns-with-jpms-abstractions/
-- Separate Abstractions pattern, Knoernschild 2012, p. 237 ff. / https://dzone.com/refcardz/patterns-modular-architecture
-- https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-Java-Impl-Medinfo2007-2007-03-31.pdf
+**openEHR website**
+
+- [Homepage | openehr.org](https://www.openehr.org) 
+- [Custom Google search | openehr.org](https://cse.google.com/cse?cx=b137c0ed42c6742ba) 
+- [Custom Google search | specifications.openehr.org](https://cse.google.com/cse?cx=25af888cc5a66491c)
+- [All Components | specifications.openehr.org](https://specifications.openehr.org/components)
+- [Development Baseline | specifications.openehr.org](https://specifications.openehr.org/development_baseline)
+- [openEHR Portal - UML | specifications.openehr.org](https://specifications.openehr.org/releases/UML/latest/index.html)
+
+**openEHR Java implementations**
+
+- [The openEHR Java Reference Implementation Project | openehr.org](https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-Java-Impl-Medinfo2007-2007-03-31.pdf)
+- https://github.com/openEHR/archie
+
+
+**Separate Abstractions pattern**
+
+- Knoernschild 2012, p. 237 ff.
+- [Patterns of Modular Architecture | dzone.com](https://dzone.com/refcardz/patterns-modular-architecture)
+- [Modularity Patterns with JPMS | opus.ch](https://opus.ch/modularity-patterns-with-jpms-abstractions)
 
 ## Legal notice
 
