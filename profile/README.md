@@ -4,7 +4,7 @@ This project provides a collection of Maven packages with interface types for th
 
 ## Overview
 
-The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/diagrams/Component.html) provides an overview over the openEHR Java API repositories and contained Maven packages:
+The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/diagrams/Component.html) provides an overview over the openEHR Java API repositories and contained Maven packages with their dependencies:
 
 ![component diagram with package dependencies](./img/overview.png)
 
