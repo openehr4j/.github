@@ -1,0 +1,28 @@
+@startuml undefined
+
+package openehr-am-java {
+  component "openehr-am-aom2" as aom2
+}
+
+package openehr-base-java {
+  component "openehr-base-base-types" as baseTypes
+  component "openehr-base-foundation-types" as foundationTypes
+  component "openehr-base-resource-model" as resourceModel
+}
+
+package openehr-rm-java {
+  component "openehr-rm-common" as common
+  component "openehr-rm-data-structures" as dataStructures
+  component "openehr-rm-data-types" as dataTypes
+  component "openehr-rm-demographic" as demographic
+  component "openehr-rm-ehr" as ehr
+  component "openehr-rm-ehr-extract" as ehrExtract
+  component "openehr-rm-integration" as integration
+  component "openehr-rm-support" as support
+}
+
+package openehr-term-java {
+  component "openehr-term-support-terminology" as supportTerminology
+}
+
+@enduml
