@@ -29,4 +29,28 @@ baseTypes ..> foundationTypes
 resourceModel ..> baseTypes
 resourceModel ..> foundationTypes
 
+common ..> baseTypes
+common ..> dataTypes
+common ..> dataStructures
+
+dataStructures ..> dataTypes
+
+dataTypes ..> baseTypes
+dataTypes ..> foundationTypes
+
+demographic ..> common
+
+ehr ..> common
+ehr ..> dataStructures
+ehr ..> dataTypes
+
+ehrExtract ..> baseTypes
+ehrExtract ..> common
+ehrExtract ..> dataTypes
+
+integration ..> dataStructures
+integration ..> ehr
+
+support ..> dataTypes
+
 @enduml
