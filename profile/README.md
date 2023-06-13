@@ -22,8 +22,9 @@ The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/
 **openEHR Java implementations**
 
 - [The openEHR Java Reference Implementation Project | openehr.org](https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-Java-Impl-Medinfo2007-2007-03-31.pdf)
+- https://github.com/openEHR/java-libs
+- https://github.com/ehrbase/ehrbase
 - https://github.com/openEHR/archie
-
 
 **Separate Abstractions pattern**
 
