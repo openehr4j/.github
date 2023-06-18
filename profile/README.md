@@ -1,19 +1,21 @@
 # openEHR Java API [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-This project provides a collection of Maven packages with Java interface types for the corresponding classes of the [openEHR specifications](https://specifications.openehr.org/).
+This project provides a collection of Maven packages with Java interface declarations for the classes defined in the corresponding [openEHR specifications](https://specifications.openehr.org/).
 
 ## Overview
 
-openEHR defines categories, components, specifications ... TBD ... see https://specifications.openehr.org/components
+The openEHR specifications are grouped into the categories _abstract specifications_, _implementation technology specifications (ITS)_, and _conformance specification_. In each category are groups of specifications called Components.
 
-The following table ... TBD ...
+The _abstract specifications_ category contains "platform-independent UML information models, service interfaces, Antlr grammars etc;" (https://specifications.openehr.org). The _openERH Java API_ makes those UML information models accessible for applications using the Java programming language, without providing an implementation.
 
-| **Repository** | **Component** | **Description** |
+For each Component with a stable release, this GitHub organisation has a repository with a version number that reflects the Component version number. Then each repository has a separate Maven package for the specifications in the corresponding Component.
+
+| **Repository** | **Component** | **Packages** |
 |---|---|---|
-| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | Archetype Model  | "The openEHR `am` package contains the models necessary to describe the semantics of archetypes and templates, and their use within openEHR." ([specifications.openehr.org](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am)) |
-| [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | Base Model  | TBD |
-| [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | Reference Model | TBD |
-| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="150"> | openEHR Terminology <img width="120">  | TBD  |
+| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | [Archetype Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am)  | Archetype Object Model 2 |
+| [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | [Base Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_base_component_base)  | Foundation Types, Base Types |
+| [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | [Reference Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_reference_model_component_rm) | EHR, Demographic, EHR Extract, Data Structures, Data Types, Integration |
+| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) | [openEHR Terminology](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_terminology_in_openehr)  | Support Terminology |
 
 ## References
 
