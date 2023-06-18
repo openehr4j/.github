@@ -15,7 +15,7 @@ The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/
 | [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | TBD |
 | [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | TBD |
 | [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | TBD |
-| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="20"> | TBD <img width="1000"> |
+| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="100"> | TBD <img width="1000"> |
 
 ## References
 
