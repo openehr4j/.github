@@ -1,16 +1,16 @@
 @startuml undefined
 
-package openehr-am-java {
+package "openehr-am-java" as AM {
   component "openehr-am-aom2" as aom2
 }
 
-package openehr-base-java {
+package "openehr-base-java" as BASE {
   component "openehr-base-base-types" as baseTypes
   component "openehr-base-foundation-types" as foundationTypes
   component "openehr-base-resource-model" as resourceModel
 }
 
-package openehr-rm-java {
+package "openehr-rm-java" as RM {
   component "openehr-rm-common" as common
   component "openehr-rm-data-structures" as dataStructures
   component "openehr-rm-data-types" as dataTypes
@@ -21,36 +21,10 @@ package openehr-rm-java {
   component "openehr-rm-support" as support
 }
 
-package openehr-term-java {
+package "openehr-term-java" as TERM {
   component "openehr-term-support-terminology" as supportTerminology
 }
 
-baseTypes ..> foundationTypes
-resourceModel ..> baseTypes
-resourceModel ..> foundationTypes
-
-common ..> baseTypes
-common ..> dataTypes
-common ..> dataStructures
-
-dataStructures ..> dataTypes
-
-dataTypes ..> baseTypes
-dataTypes ..> foundationTypes
-
-demographic ..> common
-
-ehr ..> common
-ehr ..> dataStructures
-ehr ..> dataTypes
-
-ehrExtract ..> baseTypes
-ehrExtract ..> common
-ehrExtract ..> dataTypes
-
-integration ..> dataStructures
-integration ..> ehr
-
-support ..> dataTypes
+RM ..> BASE
 
 @enduml
