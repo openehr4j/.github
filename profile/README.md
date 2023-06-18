@@ -6,9 +6,7 @@ This project provides a collection of Maven packages with Java interface declara
 
 The openEHR specifications are grouped into the categories "abstract specifications", "implementation technology specifications (ITS)", and "conformance specification". In each category are groups of specifications called Components.
 
-The "abstract specifications" category contains "platform-independent UML information models, service interfaces, Antlr grammars etc;" (see [specifications.openehr.org](https://specifications.openehr.org)). The "openERH Java API" project makes the UML information models accessible for applications using the Java programming language, without providing an implementation.
-
-For each Component with a stable release, this GitHub organisation has a repository with a version number that reflects the Component version number. Then each repository has a separate Maven package for the specifications in the corresponding Component.
+The "abstract specifications" category contains "platform-independent UML information models, service interfaces, Antlr grammars etc;" (see [specifications.openehr.org](https://specifications.openehr.org)). For each Component in the "abstract specifications" category that has a stable release, this GitHub organisation has a repository with a version number that reflects the version number of the corresponding Component. Then each repository has a separate Maven package per specification.
 
 | **Component**| **Repository** | **Packages** |
 |---|---|---|
