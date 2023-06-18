@@ -48,4 +48,4 @@ This project is not affiliated nor endorsed by openEHR International.
 
 Also see: [Allowed use of openEHR specification intellectual property for client SDKs | discourse.openehr.org](https://discourse.openehr.org/t/allowed-use-of-openehr-specification-intellectual-property-for-client-sdks/4001/1)
 
-Java is a trademark of [Oracle, Inc.](https://www.oracle.com/legal/trademarks.html).
+Java is a trademark of [Oracle, Inc](https://www.oracle.com/legal/trademarks.html).
