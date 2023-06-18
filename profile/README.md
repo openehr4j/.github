@@ -8,12 +8,12 @@ openEHR defines categories, components, specifications ... TBD ... see https://s
 
 The following table ... TBD ...
 
-| **Component** | **Java API** | **Description** |
+| **Repository** | **Component** | **Description** |
 |---|---|---|
-| Archetype Model | [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | "The openEHR `am` package contains the models necessary to describe the semantics of archetypes and templates, and their use within openEHR." ([specifications.openehr.org](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am)) |
-| Base Model | [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | TBD |
-| Reference Model | [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | TBD |
-| openEHR Terminology <img width="120"> | [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="150"> | TBD  |
+| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | Archetype Model  | "The openEHR `am` package contains the models necessary to describe the semantics of archetypes and templates, and their use within openEHR." ([specifications.openehr.org](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am)) |
+| [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | Base Model  | TBD |
+| [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | Reference Model | TBD |
+| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="150"> | openEHR Terminology <img width="120">  | TBD  |
 
 ## References
 
