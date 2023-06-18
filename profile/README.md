@@ -13,7 +13,7 @@ The following table ... TBD ...
 | AM: Archetype Model | [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | "The openEHR `am` package contains the models necessary to describe the semantics of archetypes and templates, and their use within openEHR." ([specifications.openehr.org](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am)) |
 | BASE: Base Model | [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | TBD |
 | RM: Reference Model | [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | TBD |
-| TERM: openEHR Terminology <img width="120">| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="30"> | TBD <img width="1000"> |
+| TERM: openEHR Terminology <img width="120">| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="50"> | TBD <img width="1000"> |
 
 ## References
 
