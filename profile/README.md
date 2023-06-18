@@ -6,17 +6,13 @@ This project provides a collection of Maven packages with Java interface types f
 
 openEHR defines categories, components, specifications ... TBD ... see https://specifications.openehr.org/components
 
-The following [UML Component Diagram](https://www.visual-paradigm.com/VPGallery/diagrams/Component.html) provides an overview of the openEHR Java API repositories and their contained Maven packages:
-
-![component diagram with package dependencies](./img/overview.png)
-
-## Components
+The following table ... TBD ...
 
 | **Repository** | **Description** |
 |---|---|
+| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | TBD |
 | [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | TBD |
 | [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | TBD |
-| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | TBD |
 | [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="30"> | TBD <img width="1000"> |
 
 ## References
