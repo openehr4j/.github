@@ -8,12 +8,12 @@ openEHR defines categories, components, specifications ... TBD ... see https://s
 
 The following table ... TBD ...
 
-| **Repository** | **Description** |
-|---|---|
-| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | TBD |
-| [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | TBD |
-| [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | TBD |
-| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="30"> | TBD <img width="1000"> |
+| **Component** | **Repository** | **Description** |
+|---|---|---|
+| AM: Archetype Model | [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | TBD |
+| BASE: Base Model | [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | TBD |
+| RM: Reference Model | [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | TBD |
+| TERM: openEHR Terminology <img width="120">| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) <img width="30"> | TBD <img width="1000"> |
 
 ## References
 
