@@ -10,12 +10,12 @@ The "abstract specifications" category contains "platform-independent UML inform
 
 For each Component with a stable release, this GitHub organisation has a repository with a version number that reflects the Component version number. Then each repository has a separate Maven package for the specifications in the corresponding Component.
 
-| **Repository** | **Component** | **Packages** |
+| **Component**| **Repository** | **Packages** |
 |---|---|---|
-| [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | [Archetype Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am)  | Archetype Object Model 2 |
-| [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | [Base Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_base_component_base)  | Foundation Types, Base Types |
-| [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | [Reference Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_reference_model_component_rm) | EHR, Demographic, EHR Extract, Data Structures, Data Types, Integration |
-| [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) | [openEHR Terminology](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_terminology_in_openehr)  | Support Terminology |
+| [Archetype Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am) | [openehr-am-java](https://github.com/openehr-java-api/openehr-am-java) | Archetype Object Model 2 |
+| [Base Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_base_component_base) | [openehr-base-java](https://github.com/openehr-java-api/openehr-base-java) | Foundation Types, Base Types |
+| [Reference Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_reference_model_component_rm) | [openehr-rm-java](https://github.com/openehr-java-api/openehr-rm-java) | EHR, Demographic, EHR Extract, Data Structures, Data Types, Integration |
+| [openEHR Terminology](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_terminology_in_openehr) | [openehr-term-java](https://github.com/openehr-java-api/openehr-term-java) | Support Terminology |
 
 ## References
 
