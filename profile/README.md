@@ -1,4 +1,4 @@
-# openEHR J3x API [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
+# openEHR Java API [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
 This project provides a collection of Maven packages with Java interface declarations for the classes defined in the corresponding [openEHR specifications](https://specifications.openehr.org/).
 
@@ -10,10 +10,10 @@ The "abstract specifications" category contains "platform-independent UML inform
 
 | **Component**| **Repository** | **Packages** |
 |---|---|---|
-| [Archetype Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am) | [openehr-am-j3x](https://github.com/openehr-java-api/openehr-am-j3x) | Archetype Object Model 2 |
-| [Base Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_base_component_base) | [openehr-base-j3x](https://github.com/openehr-java-api/openehr-base-j3x) | Foundation Types, Base Types |
-| [Reference Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_reference_model_component_rm) | [openehr-rm-j3x](https://github.com/openehr-java-api/openehr-rm-j3x) | [Common](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-common/index.html), [Data Structures](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-data-structures/index.html), [Data Types](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-data-types/index.html), [Demographic](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-demographic/index.html), [EHR](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-ehr/index.html), [EHR Extract](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-ehr-extract/index.html), [Integration](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-integration/index.html), [Support](https://openehr-java-api.github.io/openehr-rm-j3x/javadocs/openehr-rm-support/index.html) |
-| [openEHR Terminology](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_terminology_in_openehr) | [openehr-term-j3x](https://github.com/openehr-java-api/openehr-term-j3x) | Support Terminology |
+| [Archetype Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_archetype_model_component_am) | [openehr-am-4j](https://github.com/openehr-java-api/openehr-am-java) | Archetype Object Model 2 |
+| [Base Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_base_component_base) | [openehr-base-4j](https://github.com/openehr-java-api/openehr-base-java) | Foundation Types, Base Types |
+| [Reference Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_reference_model_component_rm) | [openehr-rm-4j](https://github.com/openehr-java-api/openehr-rm-java) | [Common](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-common/index.html), [Data Structures](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-data-structures/index.html), [Data Types](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-data-types/index.html), [Demographic](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-demographic/index.html), [EHR](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-ehr/index.html), [EHR Extract](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-ehr-extract/index.html), [Integration](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-integration/index.html), [Support](https://openehr-java-api.github.io/openehr-rm-java/javadocs/openehr-rm-support/index.html) |
+| [openEHR Terminology](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_terminology_in_openehr) | [openehr-term-4j](https://github.com/openehr-java-api/openehr-term-java) | Support Terminology |
 
 ## References
 
@@ -48,4 +48,4 @@ This project is not affiliated nor endorsed by openEHR International.
 
 Also see: [Allowed use of openEHR specification intellectual property for client SDKs | discourse.openehr.org](https://discourse.openehr.org/t/allowed-use-of-openehr-specification-intellectual-property-for-client-sdks/4001/1)
 
-Java is a trademark of [Oracle, Inc](https://www.oracle.com/legal/trademarks.html).
+Java is a trademark of [Oracle](https://www.oracle.com/legal/trademarks.html).
