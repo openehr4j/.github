@@ -28,7 +28,7 @@ The "abstract specifications" category contains "platform-independent UML inform
 
 **openEHR Java implementations**
 
-- [The openEHR Java Reference Implementation Project | openehr.org](https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-4j-Impl-Medinfo2007-2007-03-31.pdf)
+- [The openEHR Java Reference Implementation Project | openehr.org](https://www.openehr.org/publications/health_ict/R-Chen-etal-openEHR-Java-Impl-Medinfo2007-2007-03-31.pdf)
 - https://github.com/openEHR/java-libs
 - https://github.com/ehrbase/ehrbase
 - https://github.com/openEHR/archie
