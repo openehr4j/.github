@@ -2,7 +2,7 @@
 
 This project provides a collection of Maven packages with Java interface declarations for the classes defined in the corresponding [openEHR specifications](https://specifications.openehr.org/).
 
-## Overview
+## API packages
 
 The openEHR specifications are grouped into the categories "abstract specifications", "implementation technology specifications (ITS)", and "conformance specification". In each category are groups of specifications called Components.
 
