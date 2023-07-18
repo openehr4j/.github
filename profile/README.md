@@ -15,6 +15,31 @@ The "abstract specifications" category contains "platform-independent UML inform
 | [Reference Model](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_reference_model_component_rm) | [openehr-rm-4j](https://github.com/openehr4j/openehr-rm-4j) | [Common](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-common/index.html), [Data Structures](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-data-structures/index.html), [Data Types](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-data-types/index.html), [Demographic](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-demographic/index.html), [EHR](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-ehr/index.html), [EHR Extract](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-ehr-extract/index.html), [Integration](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-integration/index.html), [Support](https://openehr4j.github.io/openehr-rm-4j/javadocs/openehr-rm-support/index.html) |
 | [openEHR Terminology](https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html#_terminology_in_openehr) | [openehr-term-4j](https://github.com/openehr4j/openehr-term-4j) | [Support Terminology](https://openehr4j.github.io/openehr-term-4j/javadocs/openehr-term-support-terminology/index.html) |
 
+## Specifications
+
+**BASE**
+
+- https://specifications.openehr.org/releases/RM/Release-1.1.0
+
+- https://specifications.openehr.org/releases/BASE/Release-1.2.0/architecture_overview.html
+- https://specifications.openehr.org/releases/BASE/Release-1.2.0/foundation_types.html
+- https://specifications.openehr.org/releases/BASE/Release-1.2.0/base_types.html
+- https://specifications.openehr.org/releases/1.0.2/requirements/iso18308_conformance.pdf
+
+**RM**
+
+- https://specifications.openehr.org/releases/RM/Release-1.1.0
+
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/ehr.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/demographic.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/common.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/data_structures.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/data_types.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/support.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/integration.html
+- https://specifications.openehr.org/releases/RM/Release-1.1.0/ehr_extract.html
+
+
 ## References
 
 **openEHR website**
