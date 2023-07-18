@@ -17,9 +17,7 @@ The "abstract specifications" category contains "platform-independent UML inform
 
 ## Specifications
 
-**BASE**
-
-- https://specifications.openehr.org/releases/RM/Release-1.1.0
+**[BASE](https://specifications.openehr.org/releases/RM/Release-1.1.0)**
 
 - https://specifications.openehr.org/releases/BASE/Release-1.2.0/architecture_overview.html
 - https://specifications.openehr.org/releases/BASE/Release-1.2.0/foundation_types.html
@@ -28,7 +26,7 @@ The "abstract specifications" category contains "platform-independent UML inform
 
 **RM**
 
-- https://specifications.openehr.org/releases/RM/Release-1.1.0
+https://specifications.openehr.org/releases/RM/Release-1.1.0
 
 - https://specifications.openehr.org/releases/RM/Release-1.1.0/ehr.html
 - https://specifications.openehr.org/releases/RM/Release-1.1.0/demographic.html
